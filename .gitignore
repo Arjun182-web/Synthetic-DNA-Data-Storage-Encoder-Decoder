@@ -1,0 +1,15 @@
+# Flutter
+.dart_tool/
+build/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
