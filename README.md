@@ -132,3 +132,7 @@ College of Engineering Perumon
 ## License
 
 Educational and Research Purpose Only.
+
+## Application Screenshot
+
+![Main UI](screenshots/File selected to encode.png)
