@@ -137,7 +137,7 @@ College of Engineering Perumon
 
 ## 🏗 System Architecture
 
-![Architecture](screenshots/Architecture_diagram.png)
+![Architecture](screenshots/Architecture_diagram.jpeg)
 
 ---
 
