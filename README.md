@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="screenshots/project_banner.png" width="100%">
+</p>
+
+# Synthetic DNA Data Storage Encoder and Decoder
+
+[![Download](https://img.shields.io/badge/Download-Windows%20Release-blue?style=for-the-badge)](https://github.com/Arjun182-web/Synthetic-DNA-Data-Storage-Encoder-Decoder/releases/latest)
+
+![Flutter](https://img.shields.io/badge/Flutter-Desktop-blue)
+![Python](https://img.shields.io/badge/Python-Flask-green)
+![DNA Storage](https://img.shields.io/badge/DNA-Data%20Storage-purple)
+![AES Encryption](https://img.shields.io/badge/AES-128-red)
+
 # Synthetic DNA Data Storage Encoder and Decoder
 
 ## Overview
