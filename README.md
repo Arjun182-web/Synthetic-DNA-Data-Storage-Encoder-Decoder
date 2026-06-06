@@ -120,12 +120,30 @@ frontend/
 
 ## Authors
 
-Arjun Roy
-Daiva Rajeev
-Arsha Maria Joji
-Arfad A R
+- Arjun Roy
+- Daiva Rajeev
+- Arsha Maria Joji
+- Arfad A R
 
 College of Engineering Perumon
+
+---
+
+## Application Screenshot
+
+![Main UI](screenshots/File_selected_to_encode.png)
+
+---
+
+## 🏗 System Architecture
+
+![Architecture](screenshots/Architecture_diagram.png)
+
+---
+
+## System Workflow 
+
+![Work Flow](screenshots/Work_Flow.png)
 
 ---
 
@@ -133,6 +151,3 @@ College of Engineering Perumon
 
 Educational and Research Purpose Only.
 
-## Application Screenshot
-
-![Main UI](screenshots/File selected to encode.png)
